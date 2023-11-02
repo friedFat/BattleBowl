@@ -1,0 +1,7 @@
+name: BattleBowl
+version: '${version}'
+main: me.proxui.battlebowl.BattleBowl
+api-version: '1.20'
+commands:
+  itemsoverview:
+    description: This command displays an overview of all registered items, where u can also take the items out to try them
